@@ -1,6 +1,6 @@
 {
   "snap": [
-    "zabre",
+    "zabre2",
     "ayre",
     "baydate",
     "maddyvard",
