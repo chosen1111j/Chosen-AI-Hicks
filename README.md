@@ -3,7 +3,7 @@
     "zabre2",
     "ayre",
     "baydate",
-    "maddyvard",
+    "zabre",
     "maddyfarb",
     "maddywasad",
     "maddyvase"
