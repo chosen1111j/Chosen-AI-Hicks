@@ -1,8 +1,8 @@
 {
   "snap": [
-    "maddyvarn",
-    "maddyvarf",
-    "maddydasv",
+    "zabre",
+    "ayre",
+    "baydate",
     "maddyvard",
     "maddyfarb",
     "maddywasad",
