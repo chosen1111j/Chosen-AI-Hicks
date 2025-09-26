@@ -9,11 +9,11 @@
     "lisaonif"
   ],
   "insta": [
-    "maddyfeep",
+    "maddyprees",
     "maddyfees",
-    "maddyfeep",
+    "maddyprees",
     "maddyfees",
-    "maddyfeep"
+    "maddyprees"
   ],
   "tele": [
     "maddywrt",
