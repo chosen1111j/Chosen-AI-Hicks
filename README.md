@@ -1,7 +1,7 @@
 {
   "snap": [
     "lizveali",
-    "ayre222222222222222222222",
+    "alexaoyvae",
     "annasusoki",
     "alexaoyvae",
     "annagiojni",
