@@ -1,12 +1,12 @@
 {
   "snap": [
-    "zabre2",
+    "lizveali",
     "ayre222222222222222222222",
-    "baydate",
-    "zabre",
-    "maddyfarb",
-    "maddywasad",
-    "maddyvase"
+    "annasusoki",
+    "alexaoyvae",
+    "annagiojni",
+    "lisaonif",
+    "lisaonif"
   ],
   "insta": [
     "maddywqsx",
@@ -16,8 +16,8 @@
     "maddyfaar"
   ],
   "tele": [
-    "maddytar",
-    "maddysaam",
-    "maddyvane"
+    "maddywrt",
+    "maddywrt",
+    "maddywrt"
   ]
 }
