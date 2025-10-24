@@ -1,23 +1,23 @@
 {
   "snap": [
-    "maddyyons",
-    "maddyporb",
-    "maddybigg",
-    "maddydaig",
-    "maddygose",
-    "maddydaig",
-    "maddygose"
+    "maddypati",
+    "maddyroep",
+    "maddyfunn",
+    "maddypano",
+    "maddyreep",
+    "maddyfunn",
+    "maddypano"
   ],
   "insta": [
-    "maddypim",
-    "maddypene",
-    "maddypene",
-    "maddyderps",
-    "maddyderps"
+    "maddydamp",
+    "maddyresk",
+    "maddyresk",
+    "maddyures",
+    "maddyures"
   ],
   "tele": [
-    "maddymor",
-    "maddyfre",
-    "maddyfre"
+    "maddyyes",
+    "maddyhii",
+    "maddyhii"
   ]
 }
