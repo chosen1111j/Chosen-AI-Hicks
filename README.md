@@ -3,7 +3,7 @@
     "maddypati",
     "maddyroep",
     "maddyfunn",
-    "maddypano",
+    "maddyroep",
     "maddyreep",
     "maddyfunn",
     "maddypano"
