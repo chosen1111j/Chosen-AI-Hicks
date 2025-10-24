@@ -1,23 +1,23 @@
 {
   "snap": [
-    "lizveali",
-    "alexaoyvae",
-    "annasusoki",
-    "alexaoyvae",
-    "annagiojni",
-    "lisaonif",
-    "lisaonif"
+    "maddyyons",
+    "maddyporb",
+    "maddybigg",
+    "maddydaig",
+    "maddygose",
+    "maddydaig",
+    "maddygose"
   ],
   "insta": [
-    "maddyprees",
-    "maddyfees",
-    "maddyprees",
-    "maddyfees",
-    "maddyprees"
+    "maddypim",
+    "maddypene",
+    "maddypene",
+    "maddyderps",
+    "maddyderps"
   ],
   "tele": [
-    "maddywrt",
-    "maddywrt",
-    "maddywrt"
+    "maddymor",
+    "maddymor",
+    "maddymor"
   ]
 }
