@@ -17,7 +17,7 @@
   ],
   "tele": [
     "maddymor",
-    "maddymor",
-    "maddymor"
+    "maddyfre",
+    "maddyfre"
   ]
 }
