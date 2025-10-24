@@ -1,12 +1,12 @@
 {
   "snap": [
-    "maddyyons",
-    "maddyporb",
-    "maddybigg",
-    "maddygose",
-    "maddydaig",
-    "maddygose",
-    "maddydaig"
+    "maddydaah",
+    "maddyweek",
+    "maddybase",
+    "maddybaow",
+    "maddybaow",
+    "maddyfanp",
+    "maddyfanp"
   ],
   "insta": [
     "maddypim",
