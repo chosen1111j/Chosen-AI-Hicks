@@ -2,7 +2,7 @@
   "snap": [
     "maddyroep",
     "maddyreep",
-    "maddypano",
+    "maddybaf",
     "maddyfunn",
     "maddyfunn",
     "maddyfrees",
