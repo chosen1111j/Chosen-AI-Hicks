@@ -9,11 +9,11 @@
     "maddyramu"
   ],
   "insta": [
-    "maddypim",
-    "maddypene",
-    "maddypene",
-    "maddyderps",
-    "maddyderps"
+    "maddydamp",
+    "maddyresk",
+    "maddyresk",
+    "maddyures",
+    "maddyures"
   ],
   "tele": [
     "maddymor",
