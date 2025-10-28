@@ -2,7 +2,7 @@
   "snap": [
     "maddydaah",
     "maddyweek",
-    "maddybase",
+    "maddypirs",
     "maddyfanp",
     "maddyfanp",
     "maddyfrees",
