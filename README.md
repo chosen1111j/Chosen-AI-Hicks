@@ -1,6 +1,6 @@
 {
   "snap": [
-    "maddyweek",
+    "maddyfrees",
     "maddybigg",
     "maddydaah",
     "maddyyons",
@@ -12,8 +12,8 @@
     "maddypim",
     "maddypene",
     "maddypene",
-    "maddyderps",
-    "maddyderps"
+    "maddydamp",
+    "maddydamp"
   ],
   "tele": [
     "maddymor",
