@@ -5,8 +5,8 @@
     "maddydaah",
     "maddyyons",
     "maddyyons",
-    "maddyfunn",
-    "maddyfunn"
+    "maddyfanp",
+    "maddyfanp"
   ],
   "insta": [
     "maddypim",
