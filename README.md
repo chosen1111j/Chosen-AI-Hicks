@@ -1,6 +1,6 @@
 {
   "snap": [
-    "maddydaig",
+    "maddyweek",
     "maddybigg",
     "maddydaah",
     "maddyyons",
