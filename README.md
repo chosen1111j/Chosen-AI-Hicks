@@ -9,11 +9,11 @@
     "maddywoos"
   ],
   "insta": [
-    "maddypim",
-    "maddypene",
-    "maddypene",
-    "maddyresk",
-    "maddyresk"
+    "maddyures",
+    "maddydefe",
+    "maddydefe",
+    "maddyzerk",
+    "maddyzerk"
   ],
   "tele": [
     "maddyfre",
