@@ -3,8 +3,8 @@
     "maddypirs",
     "maddywars",
     "maddyhoo",
-    "maddygaro",
-    "maddygaro",
+    "maddyhape",
+    "maddyhape",
     "maddywoos",
     "maddywoos"
   ],
