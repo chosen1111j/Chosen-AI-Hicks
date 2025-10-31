@@ -3,8 +3,8 @@
     "maddyhasso",
     "maddyweer",
     "maddyhara",
-    "maddyrere",
-    "maddyrere",
+    "maddyfrees",
+    "maddyfrees",
     "maddyramu",
     "maddyramu"
   ],
