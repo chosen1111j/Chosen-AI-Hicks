@@ -12,8 +12,8 @@
     "maddyresk",
     "maddyures",
     "maddyures",
-    "maddydefe",
-    "maddydefe"
+    "maddyerso",
+    "maddyerso"
   ],
   "tele": [
     "maddymor",
