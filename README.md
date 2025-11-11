@@ -4,9 +4,9 @@
     "hicklynnsad",
     "maddyrosp",
     "maddygeso",
-    "hickorasun",
+    "maddypirs",
     "hickamoon",
-    "hickorasun"
+    "maddypirs"
   ],
   "insta": [
     "maddyresk",
