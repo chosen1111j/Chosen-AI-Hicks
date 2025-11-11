@@ -9,10 +9,10 @@
     "hicksany"
   ],
   "insta": [
-    "maddypene",
+    "maddypim",
     "maddyures",
     "maddyzerk",
-    "maddypene",
+    "maddypim",
     "maddyzerk"
   ],
   "tele": [
