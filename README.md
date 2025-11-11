@@ -3,9 +3,9 @@
     "hickarawill",
     "hickilynmark",
     "hickieadhd",
-    "hickgonz",
+    "hickamoon",
     "hickocd",
-    "hickgonz",
+    "hickamoon",
     "hickocd"
   ],
   "insta": [
