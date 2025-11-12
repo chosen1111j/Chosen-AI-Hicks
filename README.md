@@ -3,7 +3,7 @@
     "hicksaro",
     "hicksory",
     "maddyawp",
-    "hicksatte",
+    "maddyawp",
     "maddybigg",
     "hicksatte",
     "maddybigg"
