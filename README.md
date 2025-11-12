@@ -1,6 +1,6 @@
 {
   "snap": [
-    "hickspo",
+    "maddyfede",
     "hicksory",
     "hickstony",
     "hicksatte",
