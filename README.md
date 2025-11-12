@@ -2,7 +2,7 @@
   "snap": [
     "maddyfede",
     "hicksory",
-    "hickstony",
+    "maddyawp",
     "hicksatte",
     "hicksyum",
     "hicksatte",
