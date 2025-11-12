@@ -4,13 +4,13 @@
     "hicksory",
     "maddyawp",
     "hicksatte",
-    "hicksyum",
+    "maddybigg",
     "hicksatte",
-    "hicksyum"
+    "maddybigg"
   ],
   "insta": [
     "maddypim",
-    "maddyures",
+    "maddyerso",
     "maddyzerk",
     "maddypim",
     "maddyzerk"
