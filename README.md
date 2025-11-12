@@ -2,11 +2,11 @@
   "snap": [
     "hickspo",
     "hicksarom",
-    "hicksmon",
+    "hicksony",
     "hicksoma",
-    "hicksora",
+    "hicksuno",
     "hicksoma",
-    "hicksora"
+    "hicksuno"
   ],
   "insta": [
     "maddypim",
