@@ -3,9 +3,9 @@
     "hickspo",
     "hicksory",
     "hickstony",
-    "hicksoma",
+    "hicksatte",
     "hicksyum",
-    "hicksoma",
+    "hicksatte",
     "hicksyum"
   ],
   "insta": [
