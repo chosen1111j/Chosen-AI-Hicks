@@ -2,7 +2,7 @@
   "snap": [
     "hickspo",
     "hicksarom",
-    "hicksony",
+    "hickstony",
     "hicksoma",
     "hicksuno",
     "hicksoma",
