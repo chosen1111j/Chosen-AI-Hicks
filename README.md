@@ -1,7 +1,7 @@
 {
   "snap": [
-    "hicksaro",
-    "hicksory",
+    "hicksviky",
+    "hicksgorn",
     "maddyawp",
     "maddyawp",
     "maddybigg",
