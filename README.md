@@ -4,9 +4,9 @@
     "hicksarom",
     "hicksmon",
     "hicksoma",
-    "hicksany",
+    "hicksora",
     "hicksoma",
-    "hicksany"
+    "hicksora"
   ],
   "insta": [
     "maddypim",
