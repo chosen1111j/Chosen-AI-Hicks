@@ -2,8 +2,8 @@
   "snap": [
     "maddydaah",
     "maddygeso",
-    "maddyawp",
-    "maddyawp",
+    "maddyreko",
+    "maddyreko",
     "maddybigg",
     "maddyfede",
     "maddybigg"
