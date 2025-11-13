@@ -5,7 +5,7 @@
     "maddyawp",
     "maddyawp",
     "maddybigg",
-    "hicksatte",
+    "maddyfede",
     "maddybigg"
   ],
   "insta": [
