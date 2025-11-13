@@ -10,9 +10,9 @@
   ],
   "insta": [
     "maddypim",
-    "maddyerso",
+    "hicksatte",
     "hicksara",
-    "maddyerso",
+    "hicksatte",
     "hicksara"
   ],
   "tele": [
