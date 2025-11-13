@@ -2,9 +2,9 @@
   "snap": [
     "maddydaah",
     "maddygeso",
+    "hicksama",
     "maddyreko",
-    "maddyreko",
-    "maddybigg",
+    "hicksrony",
     "maddyfede",
     "maddybigg"
   ],
@@ -12,7 +12,7 @@
     "maddypim",
     "maddyerso",
     "hicksara",
-    "maddypim",
+    "maddyerso",
     "hicksara"
   ],
   "tele": [
