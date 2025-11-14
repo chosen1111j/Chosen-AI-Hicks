@@ -4,7 +4,7 @@
     "maddyramu",
     "hicksama",
     "maddypirs",
-    "hicksrony",
+    "maddyrosp",
     "maddyhasso",
     "maddywars"
   ],
