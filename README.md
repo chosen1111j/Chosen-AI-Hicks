@@ -2,17 +2,17 @@
   "snap": [
     "maddyawp",
     "maddyramu",
-    "hicksama",
-    "maddypirs",
+    "maddybigg",
+    "maddydaah",
     "maddyrosp",
     "maddyhasso",
     "maddywars"
   ],
   "insta": [
     "maddypim",
-    "hicksatte",
+    "maddydamp",
     "hicksara",
-    "hicksatte",
+    "maddydamp",
     "hicksara"
   ],
   "tele": [
