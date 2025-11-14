@@ -1,6 +1,6 @@
 {
   "snap": [
-    "maddyweek",
+    "maddyawp",
     "maddyramu",
     "hicksama",
     "maddypirs",
