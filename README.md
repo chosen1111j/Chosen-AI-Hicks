@@ -9,11 +9,11 @@
     "hicksiry"
   ],
   "insta": [
-    "maddypim",
+    "maddyzerk",
     "maddydamp",
-    "maddyures",
+    "maddyzerk",
     "maddydamp",
-    "maddyures"
+    "maddyzerk"
   ],
   "tele": [
     "maddymor",
