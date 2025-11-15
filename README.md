@@ -11,9 +11,9 @@
   "insta": [
     "maddypim",
     "maddydamp",
-    "maddyresk",
+    "maddyures",
     "maddydamp",
-    "maddyresk"
+    "maddyures"
   ],
   "tele": [
     "maddymor",
