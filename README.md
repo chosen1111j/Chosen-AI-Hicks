@@ -5,7 +5,7 @@
     "maddybigg",
     "maddytemm",
     "maddyrosp",
-    "hickswon",
+    "hicksiry",
     "hicksiry"
   ],
   "insta": [
