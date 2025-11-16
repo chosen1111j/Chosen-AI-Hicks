@@ -5,15 +5,15 @@
     "maddybigg",
     "maddytemm",
     "maddyrosp",
-    "hicksiry",
+    "maddyramu",
     "hicksiry"
   ],
   "insta": [
     "maddyzerk",
     "maddydamp",
-    "maddyzerk",
-    "maddydamp",
-    "maddyzerk"
+    "maddyresk",
+    "maddytoz",
+    "maddytoz"
   ],
   "tele": [
     "maddymor",
