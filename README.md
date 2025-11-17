@@ -6,7 +6,7 @@
     "maddytemm",
     "maddyrosp",
     "maddyramu",
-    "hicksiry"
+    "maddywars"
   ],
   "insta": [
     "maddyzerk",
