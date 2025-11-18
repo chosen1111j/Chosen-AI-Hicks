@@ -1,7 +1,7 @@
 {
   "snap": [
     "maddypirs",
-    "maddytes",
+    "maddytis",
     "maddybigg",
     "maddytemm",
     "maddyrosp",
