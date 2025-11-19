@@ -2,7 +2,7 @@
   "snap": [
     "maddypirs",
     "maddytis",
-    "maddybigg",
+    "maddyrip",
     "maddytemm",
     "maddyrosp",
     "maddyramu",
