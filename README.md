@@ -1,10 +1,10 @@
 {
   "snap": [
     "maddypern",
-    "maddytis",
-    "maddyrany",
+    "maddypirs",
+    "maddywars",
     "maddybeso",
-    "maddyyapo",
+    "maddyramu",
     "maddygos",
     "maddywep"
   ],
