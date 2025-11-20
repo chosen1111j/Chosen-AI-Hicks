@@ -10,7 +10,7 @@
   ],
   "insta": [
     "maddyzas",
-    "hicksposa",
+    "hicksqoms",
     "maddyfrep",
     "maddytoz",
     "maddytoz"
