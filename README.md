@@ -11,7 +11,7 @@
   "insta": [
     "maddyderc",
     "hicksposa",
-    "hicksyano",
+    "maddyzas",
     "maddytoz",
     "maddytoz"
   ],
